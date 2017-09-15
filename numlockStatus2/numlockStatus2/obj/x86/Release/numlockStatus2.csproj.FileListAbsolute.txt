@@ -1,0 +1,5 @@
+C:\Users\tester\Documents\Visual Studio 2010\Projects\numlockStatus2\numlockStatus2\bin\Release\numlockStatus2.exe
+C:\Users\tester\Documents\Visual Studio 2010\Projects\numlockStatus2\numlockStatus2\bin\Release\numlockStatus2.pdb
+C:\Users\tester\Documents\Visual Studio 2010\Projects\numlockStatus2\numlockStatus2\obj\x86\Release\numlockStatus2.exe
+C:\Users\tester\Documents\Visual Studio 2010\Projects\numlockStatus2\numlockStatus2\obj\x86\Release\numlockStatus2.pdb
+C:\Users\tester\Documents\Visual Studio 2010\Projects\numlockStatus2\numlockStatus2\obj\x86\Release\numlockStatus2.csprojResolveAssemblyReference.cache
